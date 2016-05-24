@@ -29,9 +29,27 @@ sixteen <- (sixteen %>%
                                         ifelse(ESR == 6, 2, 3)
                     )))
 ##filter for labor force
-##calulcate percent in labor force
-##calculate percent not in labor force
+##calulcate number in labor force, not in labor force
 x <- count(sixteen, Emp, wt= PWGTP, sort = FALSE)
-##Percentage  
+
+##Percentage in labor force, not in labor force 
+
 x %>% 
         mutate(freq=n/sum(n))
+
+
+
+
+
+
+
+
+
+
+
+
+##Using filter for those in labor force
+##Calculate percent employed
+
+##Using percent filter for those in labor force
+##
