@@ -12,7 +12,7 @@ library(dplyr)
 ############################ LOAD DATA #########################################
 ################################################################################
 
-## read in combined Kentucky and Indiana pums file
+# read in combined Kentucky and Indiana pums file
 kentucky <- read.csv("~/../Desktop/pumsKy.csv")
 indiana <- read.csv("~/../Desktop/pumsIn.csv")
 
