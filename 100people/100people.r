@@ -13,8 +13,13 @@ library(dplyr)
 ################################################################################
 
 # read in combined Kentucky and Indiana pums file
+<<<<<<< HEAD:100people.R
 kentucky <- read.csv("~/../Desktop/rProjects/100people/pumsKy.csv")
 indiana <- read.csv("~/../Desktop/rProjects/100people/pumsIn.csv")
+=======
+kentucky <- read.csv("~/../Desktop/pumsKy.csv")
+indiana <- read.csv("~/../Desktop/pumsIn.csv")
+>>>>>>> 08c8e3d07508baed09db4d1f55cf1d1de19fd1cc:100people/100people.r
 
 ##Combine data sets
 kyIn <- rbind(kentucky, indiana)
