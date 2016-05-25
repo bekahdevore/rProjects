@@ -37,7 +37,7 @@ pums14 <- c(2101701, 2101702, 2101703, 2101704, 2101705, 2101706, 2101600, 21018
 workforce <- (kyIn %>%
                       filter(FPUMA %in% pums14) %>% ## filter to Louisville MSA (approximate)
                       filter(AGEP >= 16) %>% ## filter to pop 16 and over
-                      select(FPUMA, ESR, AGEP, PWGTP)) ## Select variables of interest 
+                      select(FPUMA, ESR, AGEP, PWGTP, WAGP, SCHL)) ## Select variables of interest 
 
 ####################################################################################
 ############################ 100 PEOPLE COUNTDOWN BEGINS ###########################
@@ -72,14 +72,42 @@ percent(e)
 print("1 = Employed; 2 = Unemployed")
 
 
-############################ Employed Earning more than x ##############################
+############################ Employed Earning more than $28,974 ##############################
+##Note*  $28,974 represents (25th pct wage production + install,maint,repair occupations), simulating 
+##wage for entry level jobs in specific areas of manufacturing 
 
+earning <- (workforce %>%
+                    mutate(Emp = ifelse(ESR == 1|ESR == 2, 1, 
+                                        ifelse(ESR == 3, 2, 3)
+                    ))%>%
+                    filter(Emp < 2) %>%
+                    mutate(Earn = ifelse(WAGP > 28974.4, 1, 2) )
+)
+earns <- count(earning, Earn, wt= PWGTP, sort = FALSE) #weight by PWGTP
+percent(earns)
+print("1 = earns more than $28,974; 2 = earns <= $28,974")
 
+############################ Educational Attainment ##############################
+## less than a bachelors of employed and unemployed making less than $28,974
 
+education <- (workforce %>%
+                      mutate(Emp = ifelse(ESR == 1|ESR == 2, 1, 
+                                          ifelse(ESR == 3, 2, 3)
+                      ))%>%
+                      filter(Emp < 3) %>%
+                      mutate(Earn = ifelse(WAGP > 28974.4, 1, 2))%>%
+                      mutate(Edu = ifelse(SCHL >= 21, 1, 2))%>%
+                      filter(Earn>1)
+)
 
+ed <- count(education, Edu, wt= PWGTP, sort = FALSE) #weight by PWGTP
+percent(ed)
+print("1 = bachelor's degree or above ; 2 = less than bachelor's degree")
 
-########### Educational Attainment <- less than a bachelors of employed and unemployed
+############################ Working in Manufacturing ##############################
+## less than a bachelors of employed and unemployed
 ########### Working in Manufacturing (take away all)
+
 ########### Female (take away 3/4)
 ########### Disablity
 ########### Age
