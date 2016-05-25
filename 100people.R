@@ -1,11 +1,16 @@
-#############################################################################################
+####################################################################################
 ###### If Louisville were 100 People project
 ###### 2014 1-year pums
 ###### Louisville MSA; KY-IN
+####################################################################################
 
-## load packages
+############################ LOAD PACKAGES #####################################
+################################################################################
+
 library(dplyr)
-library(survey)
+
+############################ LOAD DATA #########################################
+################################################################################
 
 ## read in combined Kentucky and Indiana pums file
 kentucky <- read.csv("~/../Desktop/pumsKy.csv")
@@ -14,32 +19,66 @@ indiana <- read.csv("~/../Desktop/pumsIn.csv")
 ##Combine data sets
 kyIn <- rbind(kentucky, indiana)
 
-## vector to approximate Louisville MSA with full PUMA (State + Puma Code)
+############################ FUNCTIONS #########################################
+################################################################################
+
+##Percentage "n" in df  
+percent <- function(data){
+        data <-  data %>% mutate(per=n/sum(n))
+        print(data)
+}
+
+############################ MAIN DATA FILTER ##################################
+################################################################################
+
+## vector to approximate Louisville MSA with full PUMA (State + Puma Code, excludes Washington, IN)
 pums14 <- c(2101701, 2101702, 2101703, 2101704, 2101705, 2101706, 2101600, 2101800, 1803400, 1803300)
 
-sixteen <- (kyIn %>%
-                    filter(FPUMA %in% pums14) %>% ## filter to Louisville MSA (approximate)
-                    filter(AGEP >= 16) %>% ## filter to pop 16 and over
-                    select(FPUMA, ESR, AGEP, PWGTP))
+workforce <- (kyIn %>%
+                      filter(FPUMA %in% pums14) %>% ## filter to Louisville MSA (approximate)
+                      filter(AGEP >= 16) %>% ## filter to pop 16 and over
+                      select(FPUMA, ESR, AGEP, PWGTP)) ## Select variables of interest 
 
+####################################################################################
+############################ 100 PEOPLE COUNTDOWN BEGINS ###########################
+####################################################################################
 
-##Recode ESR data
-sixteen <- (sixteen %>%
-                    mutate(Emp = ifelse(ESR == 1|ESR == 2 |ESR == 3 | ESR == 4|ESR == 5, 1, 
-                                        ifelse(ESR == 6, 2, 3)
-                    )))
+############################ Labor Force ###########################
 ##filter for labor force
-##calulcate number in labor force, not in labor force
-x <- count(sixteen, Emp, wt= PWGTP, sort = FALSE)
+##Recode ESR data
+laborforce <- (workforce %>%
+                       mutate(Emp = ifelse(ESR == 1|ESR == 2 |ESR == 3, 1, #In Labor Force = 1
+                                           ifelse(ESR == 6, 2, 3) #Not in Labor Force =2, other= 3
+                       ))%>%
+                       filter(Emp < 3)
+)
 
-##Percentage in labor force, not in labor force 
+##calulcate number then percent in labor force, not in labor force
+x <- count(laborforce, Emp, wt= PWGTP, sort = FALSE) #weight by PWGTP
+percent(x)
+print("1 = in Labor Force; 2 = Not in Labor Force")
 
-x %>% 
-        mutate(freq=n/sum(n))
 
-########### Employed
-########### Earning more than x
-########### Educational Attainment <- less than a bachelors
+############################ Employed ##############################
+##of Labor Force - Employed 
+employed <- (workforce %>%
+                     mutate(Emp = ifelse(ESR == 1|ESR == 2, 1, 
+                                         ifelse(ESR == 3, 2, 3)
+                     ))%>%
+                     filter(Emp < 3)
+)
+e <- count(employed, Emp, wt= PWGTP, sort = FALSE) #weight by PWGTP
+percent(e)
+print("1 = Employed; 2 = Unemployed")
+
+
+############################ Employed Earning more than x ##############################
+
+
+
+
+
+########### Educational Attainment <- less than a bachelors of employed and unemployed
 ########### Working in Manufacturing (take away all)
 ########### Female (take away 3/4)
 ########### Disablity
