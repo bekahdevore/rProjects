@@ -1,5 +1,5 @@
 #############################################################################################
-###### cross tab employment status by educational attainment
+###### If Louisville were 100 People project
 ###### 2014 1-year pums
 ###### Louisville MSA; KY-IN
 
@@ -36,6 +36,19 @@ x <- count(sixteen, Emp, wt= PWGTP, sort = FALSE)
 
 x %>% 
         mutate(freq=n/sum(n))
+
+########### Employed
+########### Earning more than x
+########### Educational Attainment <- less than a bachelors
+########### Working in Manufacturing (take away all)
+########### Female (take away 3/4)
+########### Disablity
+########### Age
+########### English
+
+
+
+
 
 
 
