@@ -1,0 +1,788 @@
+SOC,Description,Pct. 25 Hourly Earnings,2016 - 2026 Change,Age 55-64,Age 65+,Typical Entry Level Education,Typical On-The-Job Training
+11-1011,Chief Executives,$57.72, (12),327,121,Bachelor's degree,None
+11-1021,General and Operations Managers,$25.47,641,"1,566",286,Bachelor's degree,None
+11-1031,Legislators,$7.99, (1),23,22,Bachelor's degree,None
+11-2011,Advertising and Promotions Managers,$23.07,2,18,<10,Bachelor's degree,None
+11-2021,Marketing Managers,$35.00,78,101,18,Bachelor's degree,None
+11-2022,Sales Managers,$30.81,118,237,43,Bachelor's degree,None
+11-2031,Public Relations and Fundraising Managers,$26.74,17,51,<10,Bachelor's degree,None
+11-3011,Administrative Services Managers,$25.53,109,223,47,Bachelor's degree,None
+11-3021,Computer and Information Systems Managers,$39.92,282,163,17,Bachelor's degree,None
+11-3031,Financial Managers,$30.63,165,434,71,Bachelor's degree,None
+11-3051,Industrial Production Managers,$30.06, (13),242,25,Bachelor's degree,None
+11-3061,Purchasing Managers,$31.91,13,74,11,Bachelor's degree,None
+11-3071,"Transportation, Storage, and Distribution Managers",$31.24,49,125,20,High school diploma or equivalent,None
+11-3111,Compensation and Benefits Managers,$35.55,11,14,<10,Bachelor's degree,None
+11-3121,Human Resources Managers,$33.76,50,122,17,Bachelor's degree,None
+11-3131,Training and Development Managers,$30.81,16,59,<10,Bachelor's degree,None
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",$22.27, (8),11,<10,High school diploma or equivalent,None
+11-9021,Construction Managers,$26.75,68,245,45,Bachelor's degree,Moderate-term on-the-job training
+11-9031,"Education Administrators, Preschool and Childcare Center/Program",$16.04,24,19,<10,Bachelor's degree,None
+11-9032,"Education Administrators, Elementary and Secondary School",$39.01,75,263,62,Master's degree,None
+11-9033,"Education Administrators, Postsecondary",$26.25,37,80,22,Master's degree,None
+11-9039,"Education Administrators, All Other",$28.29,0,21,<10,Bachelor's degree,None
+11-9041,Architectural and Engineering Managers,$46.45,33,117,22,Bachelor's degree,None
+11-9051,Food Service Managers,$18.97,64,93,29,High school diploma or equivalent,None
+11-9061,Funeral Service Managers,$25.83,5,<10,<10,Associate's degree,None
+11-9071,Gaming Managers,$23.92,Insf. Data,<10,<10,High school diploma or equivalent,None
+11-9081,Lodging Managers,$16.33,4,14,<10,High school diploma or equivalent,None
+11-9111,Medical and Health Services Managers,$34.43,230,334,56,Bachelor's degree,None
+11-9121,Natural Sciences Managers,$39.95,4,20,<10,Bachelor's degree,None
+11-9131,Postmasters and Mail Superintendents,$28.81, (10),16,<10,High school diploma or equivalent,Moderate-term on-the-job training
+11-9141,"Property, Real Estate, and Community Association Managers",$17.37,57,147,54,High school diploma or equivalent,None
+11-9151,Social and Community Service Managers,$22.58,36,131,48,Bachelor's degree,None
+11-9161,Emergency Management Directors,$14.49,3,<10,<10,Bachelor's degree,None
+11-9199,"Managers, All Other",$29.90,149,372,81,Bachelor's degree,None
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",$22.04,0,<10,<10,Bachelor's degree,None
+13-1021,"Buyers and Purchasing Agents, Farm Products",$20.25,1,<10,<10,Bachelor's degree,Long-term on-the-job training
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",$17.39,30,80,24,Bachelor's degree,Long-term on-the-job training
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",$19.59,59,252,46,Bachelor's degree,Long-term on-the-job training
+13-1031,"Claims Adjusters, Examiners, and Investigators",$19.65,383,284,50,High school diploma or equivalent,Long-term on-the-job training
+13-1032,"Insurance Appraisers, Auto Damage",$19.71,4,13,<10,Postsecondary nondegree award,Moderate-term on-the-job training
+13-1041,Compliance Officers,$19.94,85,178,37,Bachelor's degree,Moderate-term on-the-job training
+13-1051,Cost Estimators,$23.09,73,203,68,Bachelor's degree,None
+13-1071,Human Resources Specialists,$18.62,182,280,56,Bachelor's degree,None
+13-1074,Farm Labor Contractors,$0.00,0,0,0,No formal educational credential,Short-term on-the-job training
+13-1075,Labor Relations Specialists,$9.05,24,134,34,Bachelor's degree,None
+13-1081,Logisticians,$29.94,32,73,12,Bachelor's degree,None
+13-1111,Management Analysts,$25.20,494,307,86,Bachelor's degree,None
+13-1121,"Meeting, Convention, and Event Planners",$15.23,22,41,11,Bachelor's degree,None
+13-1131,Fundraisers,$14.54,12,33,15,Bachelor's degree,None
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",$22.35,44,68,11,Bachelor's degree,None
+13-1151,Training and Development Specialists,$18.57,120,211,31,Bachelor's degree,None
+13-1161,Market Research Analysts and Marketing Specialists,$18.22,306,167,40,Bachelor's degree,None
+13-1199,"Business Operations Specialists, All Other",$21.58,392,594,122,Bachelor's degree,None
+13-2011,Accountants and Auditors,$21.19,685,803,203,Bachelor's degree,None
+13-2021,Appraisers and Assessors of Real Estate,$18.42,10,54,22,Bachelor's degree,Long-term on-the-job training
+13-2031,Budget Analysts,$22.94,16,37,<10,Bachelor's degree,None
+13-2041,Credit Analysts,$21.08, (1),23,<10,Bachelor's degree,None
+13-2051,Financial Analysts,$23.82,119,43,12,Bachelor's degree,None
+13-2052,Personal Financial Advisors,$18.01,105,116,41,Bachelor's degree,Long-term on-the-job training
+13-2053,Insurance Underwriters,$21.72,106,57,<10,Bachelor's degree,Moderate-term on-the-job training
+13-2061,Financial Examiners,$21.02,16,34,<10,Bachelor's degree,Moderate-term on-the-job training
+13-2071,Credit Counselors,$16.64, (4),12,<10,Bachelor's degree,Moderate-term on-the-job training
+13-2072,Loan Officers,$21.49, (93),219,35,Bachelor's degree,Moderate-term on-the-job training
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",$19.57, (6),34,14,Bachelor's degree,Moderate-term on-the-job training
+13-2082,Tax Preparers,$12.93,14,72,58,High school diploma or equivalent,Moderate-term on-the-job training
+13-2099,"Financial Specialists, All Other",$19.93,15,77,17,Bachelor's degree,Moderate-term on-the-job training
+15-1111,Computer and Information Research Scientists,$32.70,7,<10,<10,Doctoral or professional degree,None
+15-1121,Computer Systems Analysts,$23.96,482,190,26,Bachelor's degree,None
+15-1122,Information Security Analysts,$25.18,61,26,<10,Bachelor's degree,None
+15-1131,Computer Programmers,$21.06,38,84,14,Bachelor's degree,None
+15-1132,"Software Developers, Applications",$27.32,696,286,43,Bachelor's degree,None
+15-1133,"Software Developers, Systems Software",$33.51,197,66,10,Bachelor's degree,None
+15-1134,Web Developers,$18.57,112,21,<10,Associate's degree,None
+15-1141,Database Administrators,$24.44,73,73,<10,Bachelor's degree,None
+15-1142,Network and Computer Systems Administrators,$22.85,183,124,13,Bachelor's degree,None
+15-1143,Computer Network Architects,$27.65,75,52,<10,Bachelor's degree,None
+15-1151,Computer User Support Specialists,$16.13,324,205,26,"Some college, no degree",None
+15-1152,Computer Network Support Specialists,$17.03,61,74,<10,Associate's degree,None
+15-1199,"Computer Occupations, All Other",$23.64,93,150,23,Bachelor's degree,None
+15-2011,Actuaries,$31.08,91,14,<10,Bachelor's degree,Long-term on-the-job training
+15-2021,Mathematicians,Insf. Data,Insf. Data,<10,0,Master's degree,None
+15-2031,Operations Research Analysts,$23.84,161,91,13,Bachelor's degree,None
+15-2041,Statisticians,$31.36,45,21,<10,Master's degree,None
+15-2091,Mathematical Technicians,Insf. Data,Insf. Data,<10,0,Bachelor's degree,None
+15-2099,"Mathematical Science Occupations, All Other",$16.95,2,<10,0,Bachelor's degree,None
+17-1011,"Architects, Except Landscape and Naval",$25.21,54,50,17,Bachelor's degree,Internship/residency
+17-1012,Landscape Architects,$20.19,5,<10,<10,Bachelor's degree,Internship/residency
+17-1021,Cartographers and Photogrammetrists,$18.72,19,12,<10,Bachelor's degree,None
+17-1022,Surveyors,$17.93,8,23,<10,Bachelor's degree,None
+17-2011,Aerospace Engineers,$28.98,9,<10,<10,Bachelor's degree,None
+17-2021,Agricultural Engineers,Insf. Data,Insf. Data,<10,<10,Bachelor's degree,None
+17-2031,Biomedical Engineers,$29.82,8,<10,<10,Bachelor's degree,None
+17-2041,Chemical Engineers,$38.69, (9),16,<10,Bachelor's degree,None
+17-2051,Civil Engineers,$30.53,82,131,54,Bachelor's degree,None
+17-2061,Computer Hardware Engineers,$26.41,19,12,<10,Bachelor's degree,None
+17-2071,Electrical Engineers,$32.61,37,80,19,Bachelor's degree,None
+17-2072,"Electronics Engineers, Except Computer",$33.25,19,41,10,Bachelor's degree,None
+17-2081,Environmental Engineers,$26.31,17,15,<10,Bachelor's degree,None
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",$25.27,4,12,<10,Bachelor's degree,None
+17-2112,Industrial Engineers,$30.18,66,174,32,Bachelor's degree,None
+17-2121,Marine Engineers and Naval Architects,$27.75,2,<10,<10,Bachelor's degree,None
+17-2131,Materials Engineers,$32.36,2,<10,<10,Bachelor's degree,None
+17-2141,Mechanical Engineers,$31.07,74,179,37,Bachelor's degree,None
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",$32.55,1,<10,<10,Bachelor's degree,None
+17-2161,Nuclear Engineers,$37.07,4,<10,<10,Bachelor's degree,None
+17-2171,Petroleum Engineers,$67.22,1,<10,<10,Bachelor's degree,None
+17-2199,"Engineers, All Other",$27.81,30,51,16,Bachelor's degree,None
+17-3011,Architectural and Civil Drafters,$17.70,18,54,16,Associate's degree,None
+17-3012,Electrical and Electronics Drafters,$22.26,9,14,<10,Associate's degree,None
+17-3013,Mechanical Drafters,$19.29,8,46,12,Associate's degree,None
+17-3019,"Drafters, All Other",$17.24,4,28,<10,Associate's degree,None
+17-3021,Aerospace Engineering and Operations Technicians,Insf. Data,Insf. Data,<10,<10,Associate's degree,None
+17-3022,Civil Engineering Technicians,$16.95,12,30,<10,Associate's degree,None
+17-3023,Electrical and Electronics Engineering Technicians,$23.17,25,73,13,Associate's degree,None
+17-3024,Electro-Mechanical Technicians,$16.74,1,<10,<10,Associate's degree,None
+17-3025,Environmental Engineering Technicians,$15.89,4,<10,<10,Associate's degree,None
+17-3026,Industrial Engineering Technicians,$17.01,10,33,<10,Associate's degree,None
+17-3027,Mechanical Engineering Technicians,$16.36,9,26,<10,Associate's degree,None
+17-3029,"Engineering Technicians, Except Drafters, All Other",$16.87,15,36,<10,Associate's degree,None
+17-3031,Surveying and Mapping Technicians,$13.00,2,29,<10,High school diploma or equivalent,Moderate-term on-the-job training
+19-1011,Animal Scientists,Insf. Data,Insf. Data,<10,0,Bachelor's degree,None
+19-1012,Food Scientists and Technologists,$25.62,3,<10,<10,Bachelor's degree,None
+19-1013,Soil and Plant Scientists,$20.68,3,<10,<10,Bachelor's degree,None
+19-1021,Biochemists and Biophysicists,$28.15,4,<10,<10,Doctoral or professional degree,None
+19-1022,Microbiologists,$23.79,2,<10,<10,Bachelor's degree,None
+19-1023,Zoologists and Wildlife Biologists,$15.34,2,<10,<10,Bachelor's degree,None
+19-1029,"Biological Scientists, All Other",$22.78,1,<10,<10,Bachelor's degree,None
+19-1031,Conservation Scientists,$23.08,3,<10,<10,Bachelor's degree,None
+19-1032,Foresters,$20.32,2,<10,<10,Bachelor's degree,None
+19-1041,Epidemiologists,$23.92,1,<10,<10,Master's degree,None
+19-1042,"Medical Scientists, Except Epidemiologists",$20.99,37,37,11,Doctoral or professional degree,None
+19-1099,"Life Scientists, All Other",$24.04,3,<10,<10,Bachelor's degree,None
+19-2011,Astronomers,Insf. Data,Insf. Data,<10,0,Doctoral or professional degree,None
+19-2012,Physicists,$38.89,3,<10,<10,Doctoral or professional degree,None
+19-2021,Atmospheric and Space Scientists,$29.27,0,<10,<10,Bachelor's degree,None
+19-2031,Chemists,$24.08, (9),29,<10,Bachelor's degree,None
+19-2032,Materials Scientists,Insf. Data,Insf. Data,<10,<10,Bachelor's degree,None
+19-2041,"Environmental Scientists and Specialists, Including Health",$22.25,23,20,<10,Bachelor's degree,None
+19-2042,"Geoscientists, Except Hydrologists and Geographers",$27.55,7,<10,<10,Bachelor's degree,None
+19-2043,Hydrologists,Insf. Data,Insf. Data,<10,<10,Bachelor's degree,None
+19-2099,"Physical Scientists, All Other",$23.11,1,<10,<10,Bachelor's degree,None
+19-3011,Economists,$27.22,4,<10,<10,Master's degree,None
+19-3022,Survey Researchers,$20.44, (2),<10,<10,Master's degree,None
+19-3031,"Clinical, Counseling, and School Psychologists",$25.28,38,68,18,Doctoral or professional degree,Internship/residency
+19-3032,Industrial-Organizational Psychologists,Insf. Data,Insf. Data,<10,0,Master's degree,Internship/residency
+19-3039,"Psychologists, All Other",$31.19,1,<10,<10,Master's degree,Internship/residency
+19-3041,Sociologists,Insf. Data,Insf. Data,<10,0,Master's degree,None
+19-3051,Urban and Regional Planners,$14.62,7,16,<10,Master's degree,None
+19-3091,Anthropologists and Archeologists,Insf. Data,2,<10,<10,Master's degree,None
+19-3092,Geographers,Insf. Data,Insf. Data,<10,0,Bachelor's degree,None
+19-3093,Historians,Insf. Data,Insf. Data,<10,<10,Master's degree,None
+19-3094,Political Scientists,Insf. Data,Insf. Data,<10,<10,Master's degree,None
+19-3099,"Social Scientists and Related Workers, All Other",$25.30,1,<10,<10,Bachelor's degree,None
+19-4011,Agricultural and Food Science Technicians,$14.99,4,<10,<10,Associate's degree,Moderate-term on-the-job training
+19-4021,Biological Technicians,$13.86,10,<10,<10,Bachelor's degree,None
+19-4031,Chemical Technicians,$14.67, (12),31,<10,Associate's degree,Moderate-term on-the-job training
+19-4041,Geological and Petroleum Technicians,Insf. Data,Insf. Data,<10,<10,Associate's degree,Moderate-term on-the-job training
+19-4051,Nuclear Technicians,Insf. Data,2,<10,0,Associate's degree,Moderate-term on-the-job training
+19-4061,Social Science Research Assistants,$15.44,14,<10,<10,Bachelor's degree,None
+19-4091,"Environmental Science and Protection Technicians, Including Health",$18.84,11,<10,<10,Associate's degree,None
+19-4092,Forensic Science Technicians,$19.01,4,<10,<10,Bachelor's degree,Moderate-term on-the-job training
+19-4093,Forest and Conservation Technicians,$13.81,0,<10,<10,Associate's degree,None
+19-4099,"Life, Physical, and Social Science Technicians, All Other",$13.58,15,20,<10,Associate's degree,None
+21-1011,Substance Abuse and Behavioral Disorder Counselors,$13.50,3,50,13,Bachelor's degree,None
+21-1012,"Educational, Guidance, School, and Vocational Counselors",$18.46,73,173,46,Master's degree,None
+21-1013,Marriage and Family Therapists,$9.57,5,17,<10,Master's degree,Internship/residency
+21-1014,Mental Health Counselors,$13.59, (11),80,21,Master's degree,Internship/residency
+21-1015,Rehabilitation Counselors,$11.56,25,70,21,Master's degree,None
+21-1019,"Counselors, All Other",$14.85,11,23,<10,Master's degree,None
+21-1021,"Child, Family, and School Social Workers",$14.30,56,230,60,Bachelor's degree,None
+21-1022,Healthcare Social Workers,$17.46,101,88,17,Master's degree,None
+21-1023,Mental Health and Substance Abuse Social Workers,$14.45, (1),72,16,Bachelor's degree,None
+21-1029,"Social Workers, All Other",$14.09,12,60,16,Bachelor's degree,None
+21-1091,Health Educators,$18.07,32,30,<10,Bachelor's degree,None
+21-1092,Probation Officers and Correctional Treatment Specialists,$15.02,12,47,19,Bachelor's degree,Short-term on-the-job training
+21-1093,Social and Human Service Assistants,$9.88,127,199,74,High school diploma or equivalent,Short-term on-the-job training
+21-1094,Community Health Workers,$15.60,26,31,10,High school diploma or equivalent,Short-term on-the-job training
+21-1099,"Community and Social Service Specialists, All Other",$14.41,25,51,20,Master's degree,None
+21-2011,Clergy,$18.52,20,39,32,Bachelor's degree,Moderate-term on-the-job training
+21-2021,"Directors, Religious Activities and Education",$15.21,3,<10,<10,Bachelor's degree,None
+21-2099,"Religious Workers, All Other",$14.61,3,<10,<10,Bachelor's degree,None
+23-1011,Lawyers,$26.43,164,254,106,Doctoral or professional degree,None
+23-1012,Judicial Law Clerks,$13.49, (1),<10,<10,Doctoral or professional degree,None
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",$20.12, (1),16,<10,Doctoral or professional degree,Short-term on-the-job training
+23-1022,"Arbitrators, Mediators, and Conciliators",$17.00,2,<10,<10,Bachelor's degree,Moderate-term on-the-job training
+23-1023,"Judges, Magistrate Judges, and Magistrates",$33.50,3,22,11,Doctoral or professional degree,Short-term on-the-job training
+23-2011,Paralegals and Legal Assistants,$17.19,111,208,40,Associate's degree,None
+23-2091,Court Reporters,$11.53,3,<10,<10,Postsecondary nondegree award,Short-term on-the-job training
+23-2093,"Title Examiners, Abstractors, and Searchers",$11.14, (14),25,<10,High school diploma or equivalent,Short-term on-the-job training
+23-2099,"Legal Support Workers, All Other",$21.57,3,12,<10,High school diploma or equivalent,Short-term on-the-job training
+25-1099,Postsecondary Teachers,$22.44,453,817,421,Doctoral or professional degree,None
+25-2011,"Preschool Teachers, Except Special Education",$13.86,170,77,18,Associate's degree,None
+25-2012,"Kindergarten Teachers, Except Special Education",$23.33,51,84,22,Bachelor's degree,Internship/residency
+25-2021,"Elementary School Teachers, Except Special Education",$23.17,388,971,224,Bachelor's degree,Internship/residency
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",$22.95,183,462,107,Bachelor's degree,Internship/residency
+25-2023,"Career/Technical Education Teachers, Middle School",Insf. Data,Insf. Data,<10,<10,Bachelor's degree,Internship/residency
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",$22.62,290,793,178,Bachelor's degree,Internship/residency
+25-2032,"Career/Technical Education Teachers, Secondary School",$24.76,10,22,<10,Bachelor's degree,Internship/residency
+25-2051,"Special Education Teachers, Preschool",$19.93,8,<10,<10,Bachelor's degree,Internship/residency
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",$23.13,76,172,33,Bachelor's degree,Internship/residency
+25-2053,"Special Education Teachers, Middle School",$21.93,35,93,18,Bachelor's degree,Internship/residency
+25-2054,"Special Education Teachers, Secondary School",$23.46,43,107,20,Bachelor's degree,Internship/residency
+25-2059,"Special Education Teachers, All Other",$21.80,12,28,<10,Bachelor's degree,Internship/residency
+25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors,$16.38,7,13,<10,Bachelor's degree,Internship/residency
+25-3021,Self-Enrichment Education Teachers,$13.02,22,99,47,High school diploma or equivalent,None
+25-3098,Substitute Teachers,$9.01,139,180,97,Bachelor's degree,Internship/residency
+25-3099,"Teachers and Instructors, All Other",$15.74,26,155,83,Bachelor's degree,Internship/residency
+25-4011,Archivists,$19.38,1,<10,<10,Master's degree,None
+25-4012,Curators,$12.77,2,<10,<10,Master's degree,None
+25-4013,Museum Technicians and Conservators,Insf. Data,Insf. Data,<10,<10,Bachelor's degree,None
+25-4021,Librarians,$23.89,21,139,46,Master's degree,None
+25-4031,Library Technicians,$12.79,15,35,25,Postsecondary nondegree award,None
+25-9011,Audio-Visual and Multimedia Collections Specialists,Insf. Data,Insf. Data,<10,<10,Bachelor's degree,None
+25-9021,Farm and Home Management Advisors,$23.65,2,<10,<10,Master's degree,None
+25-9031,Instructional Coordinators,$20.57,34,112,43,Master's degree,None
+25-9041,Teacher Assistants,$11.72,391,748,256,"Some college, no degree",None
+25-9099,"Education, Training, and Library Workers, All Other",$8.56,87,428,169,Bachelor's degree,None
+27-1011,Art Directors,$26.40,3,16,<10,Bachelor's degree,None
+27-1012,Craft Artists,$11.19,1,<10,<10,No formal educational credential,Long-term on-the-job training
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",$13.45,2,<10,<10,Bachelor's degree,Long-term on-the-job training
+27-1014,Multimedia Artists and Animators,$16.19,7,<10,<10,Bachelor's degree,Moderate-term on-the-job training
+27-1019,"Artists and Related Workers, All Other",$20.24, (1),<10,<10,No formal educational credential,Long-term on-the-job training
+27-1021,Commercial and Industrial Designers,$19.84,8,14,<10,Bachelor's degree,None
+27-1022,Fashion Designers,$20.43,2,<10,<10,Bachelor's degree,None
+27-1023,Floral Designers,$10.94, (16),46,22,High school diploma or equivalent,Moderate-term on-the-job training
+27-1024,Graphic Designers,$14.98,30,92,21,Bachelor's degree,None
+27-1025,Interior Designers,$21.17,5,17,<10,Bachelor's degree,None
+27-1026,Merchandise Displayers and Window Trimmers,$12.02, (7),78,18,High school diploma or equivalent,Moderate-term on-the-job training
+27-1027,Set and Exhibit Designers,$16.77,3,<10,<10,Bachelor's degree,None
+27-1029,"Designers, All Other",$14.82,3,<10,<10,Bachelor's degree,None
+27-2011,Actors,$9.91,18,<10,<10,"Some college, no degree",Long-term on-the-job training
+27-2012,Producers and Directors,$16.72,16,45,<10,Bachelor's degree,None
+27-2021,Athletes and Sports Competitors,$15.64, (4),<10,<10,No formal educational credential,Long-term on-the-job training
+27-2022,Coaches and Scouts,$8.06,33,63,40,Bachelor's degree,None
+27-2023,"Umpires, Referees, and Other Sports Officials",$9.34,3,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+27-2031,Dancers,$8.84,2,<10,<10,No formal educational credential,Long-term on-the-job training
+27-2032,Choreographers,$11.67, (1),<10,0,High school diploma or equivalent,Long-term on-the-job training
+27-2041,Music Directors and Composers,$16.87,4,<10,<10,Bachelor's degree,None
+27-2042,Musicians and Singers,$9.83,7,13,<10,No formal educational credential,Long-term on-the-job training
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",$17.75,5,11,<10,No formal educational credential,Short-term on-the-job training
+27-3011,Radio and Television Announcers,$11.21, (21),15,<10,Bachelor's degree,Short-term on-the-job training
+27-3012,Public Address System and Other Announcers,$8.59,0,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+27-3021,Broadcast News Analysts,$19.42, (6),<10,<10,Bachelor's degree,None
+27-3022,Reporters and Correspondents,$14.95,2,29,<10,Bachelor's degree,None
+27-3031,Public Relations Specialists,$17.66,45,95,32,Bachelor's degree,None
+27-3041,Editors,$15.34, (1),59,16,Bachelor's degree,None
+27-3042,Technical Writers,$24.43,24,29,<10,Bachelor's degree,Short-term on-the-job training
+27-3043,Writers and Authors,$15.51,8,19,<10,Bachelor's degree,Moderate-term on-the-job training
+27-3091,Interpreters and Translators,$16.92,10,<10,<10,Bachelor's degree,Short-term on-the-job training
+27-3099,"Media and Communication Workers, All Other",$16.22,10,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+27-4011,Audio and Video Equipment Technicians,$16.14,16,18,<10,Postsecondary nondegree award,Short-term on-the-job training
+27-4012,Broadcast Technicians,$8.78, (16),25,<10,Associate's degree,Short-term on-the-job training
+27-4013,Radio Operators,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+27-4014,Sound Engineering Technicians,$13.26,0,<10,<10,Postsecondary nondegree award,Short-term on-the-job training
+27-4021,Photographers,$8.49, (61),25,<10,High school diploma or equivalent,Long-term on-the-job training
+27-4031,"Camera Operators, Television, Video, and Motion Picture",$13.31,3,<10,<10,Bachelor's degree,None
+27-4032,Film and Video Editors,$14.44,9,<10,<10,Bachelor's degree,None
+27-4099,"Media and Communication Equipment Workers, All Other",$17.25, (2),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+29-1011,Chiropractors,$21.84,32,<10,<10,Doctoral or professional degree,None
+29-1021,"Dentists, General",$51.92,87,75,38,Doctoral or professional degree,None
+29-1022,Oral and Maxillofacial Surgeons,Insf. Data,Insf. Data,<10,<10,Doctoral or professional degree,Internship/residency
+29-1023,Orthodontists,$56.94,6,<10,<10,Doctoral or professional degree,Internship/residency
+29-1024,Prosthodontists,Insf. Data,Insf. Data,<10,<10,Doctoral or professional degree,Internship/residency
+29-1029,"Dentists, All Other Specialists",$67.52,2,<10,<10,Doctoral or professional degree,Internship/residency
+29-1031,Dietitians and Nutritionists,$22.15,41,58,13,Bachelor's degree,Internship/residency
+29-1041,Optometrists,$34.00,81,29,12,Doctoral or professional degree,None
+29-1051,Pharmacists,$53.62,123,228,92,Doctoral or professional degree,None
+29-1061,Anesthesiologists,$95.28,35,40,18,Doctoral or professional degree,Internship/residency
+29-1062,Family and General Practitioners,$63.58,62,55,25,Doctoral or professional degree,Internship/residency
+29-1063,"Internists, General",$74.34,22,<10,<10,Doctoral or professional degree,Internship/residency
+29-1064,Obstetricians and Gynecologists,$73.85,19,23,10,Doctoral or professional degree,Internship/residency
+29-1065,"Pediatricians, General",$62.87,18,31,14,Doctoral or professional degree,Internship/residency
+29-1066,Psychiatrists,$83.18,9,<10,<10,Doctoral or professional degree,Internship/residency
+29-1067,Surgeons,$105.31,41,48,21,Doctoral or professional degree,Internship/residency
+29-1069,"Physicians and Surgeons, All Other",$31.82,240,344,156,Doctoral or professional degree,Internship/residency
+29-1071,Physician Assistants,$41.64,102,37,<10,Master's degree,None
+29-1081,Podiatrists,$43.02,8,<10,<10,Doctoral or professional degree,Internship/residency
+29-1122,Occupational Therapists,$32.56,163,56,<10,Master's degree,None
+29-1123,Physical Therapists,$34.29,380,92,16,Doctoral or professional degree,None
+29-1124,Radiation Therapists,$33.66,11,<10,<10,Associate's degree,None
+29-1125,Recreational Therapists,$16.60,8,<10,<10,Bachelor's degree,None
+29-1126,Respiratory Therapists,$20.46,86,143,14,Associate's degree,None
+29-1127,Speech-Language Pathologists,$29.55,157,84,16,Master's degree,None
+29-1128,Exercise Physiologists,$18.82,2,<10,<10,Bachelor's degree,None
+29-1129,"Therapists, All Other",$35.22,11,22,<10,Bachelor's degree,None
+29-1131,Veterinarians,$30.40,28,43,18,Doctoral or professional degree,None
+29-1141,Registered Nurses,$24.62,"1,954","3,142",546,Bachelor's degree,None
+29-1151,Nurse Anesthetists,$61.08,50,87,16,Master's degree,None
+29-1161,Nurse Midwives,$42.12,8,10,<10,Master's degree,None
+29-1171,Nurse Practitioners,$38.11,177,130,19,Master's degree,None
+29-1181,Audiologists,$24.84,21,<10,<10,Doctoral or professional degree,None
+29-1199,"Health Diagnosing and Treating Practitioners, All Other",$26.48,22,16,<10,Master's degree,None
+29-2011,Medical and Clinical Laboratory Technologists,$24.92,89,150,25,Bachelor's degree,None
+29-2012,Medical and Clinical Laboratory Technicians,$15.25,108,138,23,Associate's degree,None
+29-2021,Dental Hygienists,$27.17,181,110,14,Associate's degree,None
+29-2031,Cardiovascular Technologists and Technicians,$15.52,58,52,<10,Associate's degree,None
+29-2032,Diagnostic Medical Sonographers,$22.69,71,51,<10,Associate's degree,None
+29-2033,Nuclear Medicine Technologists,$26.36,3,17,<10,Associate's degree,None
+29-2034,Radiologic Technologists,$20.57,108,215,32,Associate's degree,None
+29-2035,Magnetic Resonance Imaging Technologists,$25.55,15,21,<10,Associate's degree,None
+29-2041,Emergency Medical Technicians and Paramedics,$11.23,173,79,13,Postsecondary nondegree award,None
+29-2051,Dietetic Technicians,$11.37,11,<10,<10,Associate's degree,None
+29-2052,Pharmacy Technicians,$11.34,253,197,37,High school diploma or equivalent,Moderate-term on-the-job training
+29-2053,Psychiatric Technicians,$11.66, (16),21,<10,Postsecondary nondegree award,Short-term on-the-job training
+29-2054,Respiratory Therapy Technicians,$16.25, (4),<10,<10,Associate's degree,None
+29-2055,Surgical Technologists,$16.78,76,50,<10,Postsecondary nondegree award,None
+29-2056,Veterinary Technologists and Technicians,$10.69,80,40,<10,Associate's degree,None
+29-2057,Ophthalmic Medical Technicians,$15.56,55,19,<10,Postsecondary nondegree award,None
+29-2061,Licensed Practical and Licensed Vocational Nurses,$16.94,369,649,155,Postsecondary nondegree award,None
+29-2071,Medical Records and Health Information Technicians,$13.08,149,280,66,Postsecondary nondegree award,None
+29-2081,"Opticians, Dispensing",$12.99,109,42,12,High school diploma or equivalent,Long-term on-the-job training
+29-2091,Orthotists and Prosthetists,$14.42,10,12,<10,Master's degree,Internship/residency
+29-2092,Hearing Aid Specialists,$15.69,9,<10,<10,High school diploma or equivalent,None
+29-2099,"Health Technologists and Technicians, All Other",$16.80,138,84,17,High school diploma or equivalent,None
+29-9011,Occupational Health and Safety Specialists,$23.64,4,71,10,Bachelor's degree,None
+29-9012,Occupational Health and Safety Technicians,$15.61,4,14,<10,High school diploma or equivalent,Moderate-term on-the-job training
+29-9091,Athletic Trainers,$17.86,25,11,<10,Bachelor's degree,None
+29-9092,Genetic Counselors,Insf. Data,Insf. Data,<10,0,Master's degree,None
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",$15.06,25,23,<10,Postsecondary nondegree award,None
+31-1011,Home Health Aides,$8.50,696,271,90,No formal educational credential,Short-term on-the-job training
+31-1013,Psychiatric Aides,$10.31, (23),30,11,High school diploma or equivalent,Short-term on-the-job training
+31-1014,Nursing Assistants,$10.51,901,"1,032",311,Postsecondary nondegree award,None
+31-1015,Orderlies,$10.45,29,33,<10,High school diploma or equivalent,Short-term on-the-job training
+31-2011,Occupational Therapy Assistants,$23.10,84,17,<10,Associate's degree,None
+31-2012,Occupational Therapy Aides,$10.01,16,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+31-2021,Physical Therapist Assistants,$22.70,191,42,<10,Associate's degree,None
+31-2022,Physical Therapist Aides,$11.64,113,16,<10,High school diploma or equivalent,Short-term on-the-job training
+31-9011,Massage Therapists,$12.22,66,12,<10,Postsecondary nondegree award,None
+31-9091,Dental Assistants,$15.40,323,151,19,Postsecondary nondegree award,None
+31-9092,Medical Assistants,$11.49,644,294,53,Postsecondary nondegree award,None
+31-9093,Medical Equipment Preparers,$12.98,39,50,<10,High school diploma or equivalent,Moderate-term on-the-job training
+31-9094,Medical Transcriptionists,$15.09, (14),67,12,Postsecondary nondegree award,None
+31-9095,Pharmacy Aides,$8.95,17,22,<10,High school diploma or equivalent,Short-term on-the-job training
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,$8.80,36,30,<10,High school diploma or equivalent,Short-term on-the-job training
+31-9097,Phlebotomists,$12.96,47,70,<10,Postsecondary nondegree award,None
+31-9099,"Healthcare Support Workers, All Other",$12.32,48,47,11,High school diploma or equivalent,None
+33-1011,First-Line Supervisors of Correctional Officers,$14.83,14,66,11,High school diploma or equivalent,Moderate-term on-the-job training
+33-1012,First-Line Supervisors of Police and Detectives,$25.84,22,62,12,High school diploma or equivalent,Moderate-term on-the-job training
+33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers,$17.21,14,39,<10,Postsecondary nondegree award,Moderate-term on-the-job training
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",$13.64,0,59,19,High school diploma or equivalent,None
+33-2011,Firefighters,$13.84,56,71,<10,Postsecondary nondegree award,Long-term on-the-job training
+33-2021,Fire Inspectors and Investigators,$22.85,3,<10,<10,Postsecondary nondegree award,Moderate-term on-the-job training
+33-2022,Forest Fire Inspectors and Prevention Specialists,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-3011,Bailiffs,$10.56,2,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-3012,Correctional Officers and Jailers,$11.72,68,194,54,High school diploma or equivalent,Moderate-term on-the-job training
+33-3021,Detectives and Criminal Investigators,$20.51, (1),27,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-3031,Fish and Game Wardens,$20.00,1,<10,<10,Bachelor's degree,Moderate-term on-the-job training
+33-3041,Parking Enforcement Workers,$13.77, (2),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+33-3051,Police and Sheriff's Patrol Officers,$18.33,120,163,41,High school diploma or equivalent,Moderate-term on-the-job training
+33-3052,Transit and Railroad Police,$21.08,1,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-9011,Animal Control Workers,$12.45,5,13,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-9021,Private Detectives and Investigators,$17.69,2,26,<10,High school diploma or equivalent,Moderate-term on-the-job training
+33-9031,Gaming Surveillance Officers and Gaming Investigators,$11.86, (6),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+33-9032,Security Guards,$9.37, (125),787,502,High school diploma or equivalent,Short-term on-the-job training
+33-9091,Crossing Guards,$11.42,10,22,37,No formal educational credential,Short-term on-the-job training
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",$8.32,42,17,25,No formal educational credential,Short-term on-the-job training
+33-9093,Transportation Security Screeners,$16.82, (6),25,13,High school diploma or equivalent,Short-term on-the-job training
+33-9099,"Protective Service Workers, All Other",$13.67,29,25,31,High school diploma or equivalent,Short-term on-the-job training
+35-1011,Chefs and Head Cooks,$14.90,29,25,<10,High school diploma or equivalent,None
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,$10.98,394,339,111,High school diploma or equivalent,None
+35-2011,"Cooks, Fast Food",$8.10, (166),101,44,No formal educational credential,Short-term on-the-job training
+35-2012,"Cooks, Institution and Cafeteria",$10.52,44,346,137,No formal educational credential,Short-term on-the-job training
+35-2013,"Cooks, Private Household",Insf. Data,Insf. Data,0,0,Postsecondary nondegree award,None
+35-2014,"Cooks, Restaurant",$8.81,734,345,140,No formal educational credential,Moderate-term on-the-job training
+35-2015,"Cooks, Short Order",$8.29, (42),63,25,No formal educational credential,Short-term on-the-job training
+35-2019,"Cooks, All Other",$9.78, (12),15,<10,No formal educational credential,Moderate-term on-the-job training
+35-2021,Food Preparation Workers,$8.63,233,258,121,No formal educational credential,Short-term on-the-job training
+35-3011,Bartenders,$8.38,165,118,61,No formal educational credential,Short-term on-the-job training
+35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food",$8.16,"1,645","1,129",575,No formal educational credential,Short-term on-the-job training
+35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",$8.48,101,43,31,No formal educational credential,Short-term on-the-job training
+35-3031,Waiters and Waitresses,$8.36,467,417,191,No formal educational credential,Short-term on-the-job training
+35-3041,"Food Servers, Nonrestaurant",$8.40,71,77,40,No formal educational credential,Short-term on-the-job training
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,$8.23,93,74,42,No formal educational credential,Short-term on-the-job training
+35-9021,Dishwashers,$8.31,1,123,67,No formal educational credential,Short-term on-the-job training
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",$8.22,111,76,92,No formal educational credential,None
+35-9099,"Food Preparation and Serving Related Workers, All Other",$8.44,6,28,16,No formal educational credential,Short-term on-the-job training
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,$13.42,29,189,51,High school diploma or equivalent,None
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",$15.39,20,97,19,High school diploma or equivalent,None
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",$8.70,319,"1,601",729,No formal educational credential,Short-term on-the-job training
+37-2012,Maids and Housekeeping Cleaners,$8.43,284,806,291,No formal educational credential,Short-term on-the-job training
+37-2019,"Building Cleaning Workers, All Other",$12.33,0,<10,<10,No formal educational credential,Short-term on-the-job training
+37-2021,Pest Control Workers,$11.99,2,36,12,High school diploma or equivalent,Moderate-term on-the-job training
+37-3011,Landscaping and Groundskeeping Workers,$9.99,140,341,205,No formal educational credential,Short-term on-the-job training
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",$16.28,3,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+37-3013,Tree Trimmers and Pruners,$11.57,6,18,<10,High school diploma or equivalent,Short-term on-the-job training
+37-3019,"Grounds Maintenance Workers, All Other",$11.15,3,<10,<10,No formal educational credential,Short-term on-the-job training
+39-1011,Gaming Supervisors,$22.02, (7),<10,<10,High school diploma or equivalent,None
+39-1012,Slot Supervisors,$15.85, (4),<10,<10,High school diploma or equivalent,None
+39-1021,First-Line Supervisors of Personal Service Workers,$11.60,65,95,36,High school diploma or equivalent,None
+39-2011,Animal Trainers,$13.03, (1),13,<10,High school diploma or equivalent,Moderate-term on-the-job training
+39-2021,Nonfarm Animal Caretakers,$8.19,27,112,37,High school diploma or equivalent,Short-term on-the-job training
+39-3011,Gaming Dealers,$8.88, (60),50,15,High school diploma or equivalent,Short-term on-the-job training
+39-3012,Gaming and Sports Book Writers and Runners,$9.81, (34),25,22,High school diploma or equivalent,Short-term on-the-job training
+39-3019,"Gaming Service Workers, All Other",$8.53,4,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+39-3021,Motion Picture Projectionists,$9.05, (3),<10,0,No formal educational credential,Short-term on-the-job training
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",$7.87, (21),86,111,No formal educational credential,Short-term on-the-job training
+39-3091,Amusement and Recreation Attendants,$7.87,75,120,165,No formal educational credential,Short-term on-the-job training
+39-3092,Costume Attendants,$13.37,1,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",$7.93, (2),13,11,High school diploma or equivalent,Short-term on-the-job training
+39-3099,"Entertainment Attendants and Related Workers, All Other",$8.53,6,18,14,High school diploma or equivalent,Short-term on-the-job training
+39-4011,Embalmers,$11.23,1,<10,16,Postsecondary nondegree award,Short-term on-the-job training
+39-4021,Funeral Attendants,$9.07,25,43,85,High school diploma or equivalent,Short-term on-the-job training
+39-4031,"Morticians, Undertakers, and Funeral Directors",$15.72,24,24,22,Associate's degree,Long-term on-the-job training
+39-5011,Barbers,$9.14,2,11,<10,Postsecondary nondegree award,None
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",$8.55, (3),99,29,Postsecondary nondegree award,None
+39-5091,"Makeup Artists, Theatrical and Performance",Insf. Data,Insf. Data,0,0,Postsecondary nondegree award,None
+39-5092,Manicurists and Pedicurists,$8.42,2,<10,<10,Postsecondary nondegree award,None
+39-5093,Shampooers,Insf. Data,Insf. Data,<10,0,No formal educational credential,Short-term on-the-job training
+39-5094,Skincare Specialists,$8.53,16,22,<10,Postsecondary nondegree award,None
+39-6011,Baggage Porters and Bellhops,$8.09,14,14,<10,High school diploma or equivalent,Short-term on-the-job training
+39-6012,Concierges,$12.38,6,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+39-7011,Tour Guides and Escorts,$8.80,2,12,14,High school diploma or equivalent,Moderate-term on-the-job training
+39-7012,Travel Guides,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+39-9011,Childcare Workers,$8.23,376,521,310,High school diploma or equivalent,Short-term on-the-job training
+39-9021,Personal Care Aides,$8.84,"1,373",915,468,No formal educational credential,Short-term on-the-job training
+39-9031,Fitness Trainers and Aerobics Instructors,$10.65,187,83,39,High school diploma or equivalent,Short-term on-the-job training
+39-9032,Recreation Workers,$9.05,94,100,53,High school diploma or equivalent,Short-term on-the-job training
+39-9041,Residential Advisors,$8.55,45,87,17,High school diploma or equivalent,Short-term on-the-job training
+39-9099,"Personal Care and Service Workers, All Other",$7.76,7,22,25,High school diploma or equivalent,Short-term on-the-job training
+41-1011,First-Line Supervisors of Retail Sales Workers,$12.21,213,729,155,High school diploma or equivalent,None
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,$21.05,80,212,37,High school diploma or equivalent,None
+41-2011,Cashiers,$8.20,35,"1,469",719,No formal educational credential,Short-term on-the-job training
+41-2012,Gaming Change Persons and Booth Cashiers,$10.45, (2),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+41-2021,Counter and Rental Clerks,$8.28,51,228,160,No formal educational credential,Short-term on-the-job training
+41-2022,Parts Salespersons,$9.90,68,220,78,No formal educational credential,Moderate-term on-the-job training
+41-2031,Retail Salespersons,$8.46,"1,024","2,870","1,546",No formal educational credential,Short-term on-the-job training
+41-3011,Advertising Sales Agents,$13.65, (16),92,20,High school diploma or equivalent,Moderate-term on-the-job training
+41-3021,Insurance Sales Agents,$15.53,668,470,144,High school diploma or equivalent,Moderate-term on-the-job training
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",$16.76,5,130,44,Bachelor's degree,Moderate-term on-the-job training
+41-3041,Travel Agents,$12.67, (52),32,19,High school diploma or equivalent,Moderate-term on-the-job training
+41-3099,"Sales Representatives, Services, All Other",$15.79,256,514,151,High school diploma or equivalent,Moderate-term on-the-job training
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",$29.41,134,284,74,Bachelor's degree,Moderate-term on-the-job training
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",$18.81,323,"1,449",366,High school diploma or equivalent,Moderate-term on-the-job training
+41-9011,Demonstrators and Product Promoters,$10.29,27,51,85,High school diploma or equivalent,Short-term on-the-job training
+41-9012,Models,$10.97,0,<10,<10,No formal educational credential,None
+41-9021,Real Estate Brokers,$14.94,5,<10,<10,High school diploma or equivalent,None
+41-9022,Real Estate Sales Agents,$10.88,31,166,82,High school diploma or equivalent,Moderate-term on-the-job training
+41-9031,Sales Engineers,$29.79,20,18,<10,Bachelor's degree,Moderate-term on-the-job training
+41-9041,Telemarketers,$9.69,192,202,67,No formal educational credential,Short-term on-the-job training
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",$8.44, (87),87,43,No formal educational credential,Short-term on-the-job training
+41-9099,"Sales and Related Workers, All Other",$9.40,46,82,59,High school diploma or equivalent,None
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,$18.66,597,"1,238",241,High school diploma or equivalent,None
+43-2011,"Switchboard Operators, Including Answering Service",$9.83, (100),139,76,High school diploma or equivalent,Short-term on-the-job training
+43-2021,Telephone Operators,$15.35, (7),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+43-2099,"Communications Equipment Operators, All Other",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Short-term on-the-job training
+43-3011,Bill and Account Collectors,$14.15, (58),159,34,High school diploma or equivalent,Moderate-term on-the-job training
+43-3021,Billing and Posting Clerks,$14.35,376,644,157,High school diploma or equivalent,Moderate-term on-the-job training
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",$13.91, (485),"1,892",689,"Some college, no degree",Moderate-term on-the-job training
+43-3041,Gaming Cage Workers,$10.65, (2),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+43-3051,Payroll and Timekeeping Clerks,$15.90, (7),187,51,High school diploma or equivalent,Moderate-term on-the-job training
+43-3061,Procurement Clerks,$15.97,0,53,<10,High school diploma or equivalent,Moderate-term on-the-job training
+43-3071,Tellers,$11.11, (262),327,66,High school diploma or equivalent,Short-term on-the-job training
+43-3099,"Financial Clerks, All Other",$17.27,1,17,<10,High school diploma or equivalent,Short-term on-the-job training
+43-4011,Brokerage Clerks,$16.67,2,33,<10,High school diploma or equivalent,Moderate-term on-the-job training
+43-4021,Correspondence Clerks,$16.77,3,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+43-4031,"Court, Municipal, and License Clerks",$12.47,37,114,54,High school diploma or equivalent,Moderate-term on-the-job training
+43-4041,"Credit Authorizers, Checkers, and Clerks",$14.15,0,14,<10,High school diploma or equivalent,Moderate-term on-the-job training
+43-4051,Customer Service Representatives,$12.40,"2,058","1,546",296,High school diploma or equivalent,Short-term on-the-job training
+43-4061,"Eligibility Interviewers, Government Programs",$16.78,9,60,18,High school diploma or equivalent,Moderate-term on-the-job training
+43-4071,File Clerks,$10.10,12,72,37,High school diploma or equivalent,Short-term on-the-job training
+43-4081,"Hotel, Motel, and Resort Desk Clerks",$8.77,45,91,52,High school diploma or equivalent,Short-term on-the-job training
+43-4111,"Interviewers, Except Eligibility and Loan",$12.72, (64),261,98,High school diploma or equivalent,Short-term on-the-job training
+43-4121,"Library Assistants, Clerical",$11.48,28,83,61,High school diploma or equivalent,Short-term on-the-job training
+43-4131,Loan Interviewers and Clerks,$12.73, (53),105,15,High school diploma or equivalent,Short-term on-the-job training
+43-4141,New Accounts Clerks,$14.60, (34),32,<10,High school diploma or equivalent,Moderate-term on-the-job training
+43-4151,Order Clerks,$12.11,98,124,33,High school diploma or equivalent,Short-term on-the-job training
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",$14.36,5,110,32,Associate's degree,None
+43-4171,Receptionists and Information Clerks,$10.88,484,774,376,High school diploma or equivalent,Short-term on-the-job training
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,$11.16, (31),27,<10,High school diploma or equivalent,Short-term on-the-job training
+43-4199,"Information and Record Clerks, All Other",$13.84,37,91,53,High school diploma or equivalent,Short-term on-the-job training
+43-5011,Cargo and Freight Agents,$17.75,35,110,12,High school diploma or equivalent,Short-term on-the-job training
+43-5021,Couriers and Messengers,$8.51,45,34,22,High school diploma or equivalent,Short-term on-the-job training
+43-5031,"Police, Fire, and Ambulance Dispatchers",$13.74,5,51,16,High school diploma or equivalent,Moderate-term on-the-job training
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",$12.98,60,149,26,High school diploma or equivalent,Moderate-term on-the-job training
+43-5041,"Meter Readers, Utilities",$9.77, (5),15,<10,High school diploma or equivalent,Short-term on-the-job training
+43-5051,Postal Service Clerks,$14.91, (44),77,20,High school diploma or equivalent,Short-term on-the-job training
+43-5052,Postal Service Mail Carriers,$20.48, (236),317,70,High school diploma or equivalent,Short-term on-the-job training
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",$20.51, (142),153,41,High school diploma or equivalent,Short-term on-the-job training
+43-5061,"Production, Planning, and Expediting Clerks",$16.47,71,277,40,High school diploma or equivalent,Moderate-term on-the-job training
+43-5071,"Shipping, Receiving, and Traffic Clerks",$12.46,111,696,118,High school diploma or equivalent,Short-term on-the-job training
+43-5081,Stock Clerks and Order Fillers,$9.50,477,"1,468",494,No formal educational credential,Short-term on-the-job training
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",$11.78,22,38,14,High school diploma or equivalent,Short-term on-the-job training
+43-6011,Executive Secretaries and Executive Administrative Assistants,$17.36,48,464,142,High school diploma or equivalent,None
+43-6012,Legal Secretaries,$13.37, (15),270,77,High school diploma or equivalent,Moderate-term on-the-job training
+43-6013,Medical Secretaries,$12.07,491,471,119,High school diploma or equivalent,Moderate-term on-the-job training
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",$12.38,473,"1,896",605,High school diploma or equivalent,Short-term on-the-job training
+43-9011,Computer Operators,$16.40, (11),34,<10,High school diploma or equivalent,Moderate-term on-the-job training
+43-9021,Data Entry Keyers,$11.04,57,77,20,High school diploma or equivalent,Moderate-term on-the-job training
+43-9022,Word Processors and Typists,$14.21, (8),25,12,High school diploma or equivalent,Short-term on-the-job training
+43-9031,Desktop Publishers,$16.65, (3),<10,<10,Associate's degree,Short-term on-the-job training
+43-9041,Insurance Claims and Policy Processing Clerks,$15.30,707,463,65,High school diploma or equivalent,Moderate-term on-the-job training
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",$10.24, (49),89,29,High school diploma or equivalent,Short-term on-the-job training
+43-9061,"Office Clerks, General",$10.62,782,"1,431",570,High school diploma or equivalent,Short-term on-the-job training
+43-9071,"Office Machine Operators, Except Computer",$11.84, (22),36,11,High school diploma or equivalent,Short-term on-the-job training
+43-9081,Proofreaders and Copy Markers,$13.16, (4),25,13,Bachelor's degree,None
+43-9111,Statistical Assistants,$14.48, (96),104,35,Bachelor's degree,None
+43-9199,"Office and Administrative Support Workers, All Other",$14.34,119,183,66,High school diploma or equivalent,Short-term on-the-job training
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",$15.72, (5),11,<10,High school diploma or equivalent,None
+45-2011,Agricultural Inspectors,$18.38,1,<10,<10,Bachelor's degree,Moderate-term on-the-job training
+45-2021,Animal Breeders,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+45-2041,"Graders and Sorters, Agricultural Products",$10.83, (5),18,<10,No formal educational credential,Short-term on-the-job training
+45-2091,Agricultural Equipment Operators,$12.16, (2),<10,<10,No formal educational credential,Short-term on-the-job training
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",$9.65, (81),97,41,No formal educational credential,Short-term on-the-job training
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",$9.53,6,23,12,No formal educational credential,Short-term on-the-job training
+45-2099,"Agricultural Workers, All Other",$12.09,0,<10,<10,No formal educational credential,Short-term on-the-job training
+45-3011,Fishers and Related Fishing Workers,Insf. Data,Insf. Data,0,0,No formal educational credential,Moderate-term on-the-job training
+45-3021,Hunters and Trappers,$0.00,0,0,0,No formal educational credential,Short-term on-the-job training
+45-4011,Forest and Conservation Workers,$11.99,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+45-4021,Fallers,$13.15, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+45-4022,Logging Equipment Operators,$14.45,2,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+45-4023,Log Graders and Scalers,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+45-4029,"Logging Workers, All Other",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,$21.98,209,408,77,High school diploma or equivalent,None
+47-2011,Boilermakers,$15.97,16,20,<10,High school diploma or equivalent,Apprenticeship
+47-2021,Brickmasons and Blockmasons,$15.95, (55),50,<10,High school diploma or equivalent,Apprenticeship
+47-2022,Stonemasons,$14.00, (1),<10,<10,High school diploma or equivalent,Apprenticeship
+47-2031,Carpenters,$14.14,200,282,41,High school diploma or equivalent,Apprenticeship
+47-2041,Carpet Installers,$9.49, (3),<10,<10,No formal educational credential,Short-term on-the-job training
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",$12.83,3,<10,0,No formal educational credential,Moderate-term on-the-job training
+47-2043,Floor Sanders and Finishers,$13.65,1,<10,0,No formal educational credential,Moderate-term on-the-job training
+47-2044,Tile and Marble Setters,$11.31,9,<10,<10,No formal educational credential,Long-term on-the-job training
+47-2051,Cement Masons and Concrete Finishers,$13.03,82,89,14,No formal educational credential,Moderate-term on-the-job training
+47-2053,Terrazzo Workers and Finishers,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Apprenticeship
+47-2061,Construction Laborers,$12.73,431,268,54,No formal educational credential,Short-term on-the-job training
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",$15.53,5,50,12,High school diploma or equivalent,Moderate-term on-the-job training
+47-2072,Pile-Driver Operators,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-2073,Operating Engineers and Other Construction Equipment Operators,$15.48,83,238,61,High school diploma or equivalent,Moderate-term on-the-job training
+47-2081,Drywall and Ceiling Tile Installers,$13.92, (91),19,<10,No formal educational credential,Moderate-term on-the-job training
+47-2082,Tapers,$17.21, (15),<10,<10,No formal educational credential,Moderate-term on-the-job training
+47-2111,Electricians,$18.14,351,454,60,High school diploma or equivalent,Apprenticeship
+47-2121,Glaziers,$14.53, (6),42,<10,High school diploma or equivalent,Apprenticeship
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",$12.51, (71),19,<10,No formal educational credential,Short-term on-the-job training
+47-2132,"Insulation Workers, Mechanical",$18.06,85,15,<10,High school diploma or equivalent,Apprenticeship
+47-2141,"Painters, Construction and Maintenance",$14.19,26,81,13,No formal educational credential,Moderate-term on-the-job training
+47-2142,Paperhangers,$13.67,0,<10,0,No formal educational credential,Long-term on-the-job training
+47-2151,Pipelayers,$13.69,7,<10,<10,No formal educational credential,Short-term on-the-job training
+47-2152,"Plumbers, Pipefitters, and Steamfitters",$15.32,336,355,44,High school diploma or equivalent,Apprenticeship
+47-2161,Plasterers and Stucco Masons,$17.26, (2),<10,<10,No formal educational credential,Long-term on-the-job training
+47-2171,Reinforcing Iron and Rebar Workers,$18.74,8,<10,<10,High school diploma or equivalent,Apprenticeship
+47-2181,Roofers,$14.20,147,38,<10,No formal educational credential,Moderate-term on-the-job training
+47-2211,Sheet Metal Workers,$15.77,91,100,15,High school diploma or equivalent,Apprenticeship
+47-2221,Structural Iron and Steel Workers,$16.34,34,82,<10,High school diploma or equivalent,Apprenticeship
+47-2231,Solar Photovoltaic Installers,$15.60,4,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",$10.58, (14),12,<10,No formal educational credential,Short-term on-the-job training
+47-3012,Helpers--Carpenters,$12.90,14,10,<10,No formal educational credential,Short-term on-the-job training
+47-3013,Helpers--Electricians,$10.03,34,17,<10,High school diploma or equivalent,Short-term on-the-job training
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",$9.96,1,<10,<10,No formal educational credential,Short-term on-the-job training
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",$9.73,48,34,<10,High school diploma or equivalent,Short-term on-the-job training
+47-3016,Helpers--Roofers,$11.22,23,17,<10,No formal educational credential,Short-term on-the-job training
+47-3019,"Helpers, Construction Trades, All Other",$13.60,9,<10,<10,No formal educational credential,Short-term on-the-job training
+47-4011,Construction and Building Inspectors,$17.14,29,76,36,High school diploma or equivalent,Moderate-term on-the-job training
+47-4021,Elevator Installers and Repairers,$25.58,78,14,<10,High school diploma or equivalent,Apprenticeship
+47-4031,Fence Erectors,$11.05,9,<10,<10,No formal educational credential,Moderate-term on-the-job training
+47-4041,Hazardous Materials Removal Workers,$12.68,2,31,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-4051,Highway Maintenance Workers,$13.48,25,83,31,High school diploma or equivalent,Moderate-term on-the-job training
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,$17.48,4,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,$10.48,6,<10,<10,No formal educational credential,Moderate-term on-the-job training
+47-4091,Segmental Pavers,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-4099,"Construction and Related Workers, All Other",$14.12,11,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-5011,"Derrick Operators, Oil and Gas",Insf. Data,Insf. Data,0,0,No formal educational credential,Short-term on-the-job training
+47-5012,"Rotary Drill Operators, Oil and Gas",Insf. Data,Insf. Data,0,0,No formal educational credential,Moderate-term on-the-job training
+47-5013,"Service Unit Operators, Oil, Gas, and Mining",$23.29, (2),<10,0,No formal educational credential,Moderate-term on-the-job training
+47-5021,"Earth Drillers, Except Oil and Gas",$19.48,6,17,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters",$18.71,2,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+47-5041,Continuous Mining Machine Operators,$20.16,1,<10,<10,No formal educational credential,Moderate-term on-the-job training
+47-5042,Mine Cutting and Channeling Machine Operators,$18.31, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-5049,"Mining Machine Operators, All Other",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-5051,"Rock Splitters, Quarry",$13.21,1,<10,<10,No formal educational credential,Short-term on-the-job training
+47-5061,"Roof Bolters, Mining",Insf. Data,Insf. Data,0,0,High school diploma or equivalent,Moderate-term on-the-job training
+47-5071,"Roustabouts, Oil and Gas",$13.60,0,<10,<10,No formal educational credential,Moderate-term on-the-job training
+47-5081,Helpers--Extraction Workers,$13.27, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+47-5099,"Extraction Workers, All Other",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",$20.47,109,571,91,High school diploma or equivalent,None
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",$11.73,35,125,21,"Some college, no degree",Short-term on-the-job training
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairs",$10.35,10,<10,<10,Associate's degree,Moderate-term on-the-job training
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",$16.16, (25),110,11,Postsecondary nondegree award,Moderate-term on-the-job training
+49-2091,Avionics Technicians,$19.69,6,<10,<10,Associate's degree,None
+49-2092,"Electric Motor, Power Tool, and Related Repairers",$15.64,1,<10,<10,Postsecondary nondegree award,Long-term on-the-job training
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",$21.39, (1),17,<10,Postsecondary nondegree award,Long-term on-the-job training
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",$20.07,15,57,<10,Postsecondary nondegree award,Long-term on-the-job training
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",$23.47,9,29,<10,Postsecondary nondegree award,Long-term on-the-job training
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",$10.73, (19),<10,<10,Postsecondary nondegree award,Short-term on-the-job training
+49-2097,Electronic Home Entertainment Equipment Installers and Repairers,$12.45,22,19,<10,Postsecondary nondegree award,Short-term on-the-job training
+49-2098,Security and Fire Alarm Systems Installers,$14.28,25,34,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-3011,Aircraft Mechanics and Service Technicians,$28.34,37,163,24,Postsecondary nondegree award,None
+49-3021,Automotive Body and Related Repairers,$15.32,9,104,21,High school diploma or equivalent,Long-term on-the-job training
+49-3022,Automotive Glass Installers and Repairers,$13.25,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-3023,Automotive Service Technicians and Mechanics,$11.99,74,312,79,Postsecondary nondegree award,Short-term on-the-job training
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,$16.90,155,337,51,High school diploma or equivalent,Long-term on-the-job training
+49-3041,Farm Equipment Mechanics and Service Technicians,$12.35,14,34,<10,High school diploma or equivalent,Long-term on-the-job training
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",$17.26,7,166,30,High school diploma or equivalent,Long-term on-the-job training
+49-3043,Rail Car Repairers,$12.30,0,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+49-3051,Motorboat Mechanics and Service Technicians,$13.49, (1),<10,<10,High school diploma or equivalent,Long-term on-the-job training
+49-3052,Motorcycle Mechanics,$14.86, (2),<10,<10,Postsecondary nondegree award,Short-term on-the-job training
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,$11.69,4,11,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-3091,Bicycle Repairers,$10.41,15,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-3092,Recreational Vehicle Service Technicians,$13.82, (5),<10,<10,High school diploma or equivalent,Long-term on-the-job training
+49-3093,Tire Repairers and Changers,$9.98,31,36,11,High school diploma or equivalent,Short-term on-the-job training
+49-9011,Mechanical Door Repairers,$15.17,24,12,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",$18.47,7,43,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",$15.83,204,134,21,Postsecondary nondegree award,Long-term on-the-job training
+49-9031,Home Appliance Repairers,$11.25, (1),12,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-9041,Industrial Machinery Mechanics,$19.82,271,426,54,High school diploma or equivalent,Long-term on-the-job training
+49-9043,"Maintenance Workers, Machinery",$16.16,35,80,11,High school diploma or equivalent,Moderate-term on-the-job training
+49-9044,Millwrights,$17.57,113,108,14,High school diploma or equivalent,Apprenticeship
+49-9045,"Refractory Materials Repairers, Except Brickmasons",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+49-9051,Electrical Power-Line Installers and Repairers,$21.79,146,91,<10,High school diploma or equivalent,Long-term on-the-job training
+49-9052,Telecommunications Line Installers and Repairers,$16.22,30,35,<10,High school diploma or equivalent,Long-term on-the-job training
+49-9061,Camera and Photographic Equipment Repairers,$13.34,1,<10,<10,Associate's degree,Long-term on-the-job training
+49-9062,Medical Equipment Repairers,$13.99,29,40,<10,Associate's degree,Moderate-term on-the-job training
+49-9063,Musical Instrument Repairers and Tuners,$14.73,1,<10,<10,High school diploma or equivalent,Apprenticeship
+49-9064,Watch Repairers,$12.49, (5),<10,<10,High school diploma or equivalent,Long-term on-the-job training
+49-9069,"Precision Instrument and Equipment Repairers, All Other",$25.22,4,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+49-9071,"Maintenance and Repair Workers, General",$13.95,340,"1,212",305,High school diploma or equivalent,Long-term on-the-job training
+49-9081,Wind Turbine Service Technicians,Insf. Data,Insf. Data,<10,<10,"Some college, no degree",Long-term on-the-job training
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",$15.60, (27),57,13,High school diploma or equivalent,Short-term on-the-job training
+49-9092,Commercial Divers,$16.25,5,<10,<10,Postsecondary nondegree award,Moderate-term on-the-job training
+49-9093,"Fabric Menders, Except Garment",Insf. Data,Insf. Data,<10,0,No formal educational credential,Long-term on-the-job training
+49-9094,Locksmiths and Safe Repairers,$12.96, (5),12,<10,High school diploma or equivalent,Long-term on-the-job training
+49-9095,Manufactured Building and Mobile Home Installers,$11.90, (2),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+49-9096,Riggers,$14.89,12,16,<10,High school diploma or equivalent,Short-term on-the-job training
+49-9097,Signal and Track Switch Repairers,$29.36,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",$9.67,46,41,13,High school diploma or equivalent,Short-term on-the-job training
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",$12.10,36,105,35,High school diploma or equivalent,Moderate-term on-the-job training
+51-1011,First-Line Supervisors of Production and Operating Workers,$20.02,33,648,84,High school diploma or equivalent,None
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",$17.98,3,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-2021,"Coil Winders, Tapers, and Finishers",$10.99, (3),11,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-2022,Electrical and Electronic Equipment Assemblers,$10.46,71,86,18,High school diploma or equivalent,Moderate-term on-the-job training
+51-2023,Electromechanical Equipment Assemblers,$13.89,28,82,14,High school diploma or equivalent,Moderate-term on-the-job training
+51-2031,Engine and Other Machine Assemblers,$12.49,10,48,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-2041,Structural Metal Fabricators and Fitters,$14.96,41,73,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-2091,Fiberglass Laminators and Fabricators,$12.15,13,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-2092,Team Assemblers,$12.86,"1,017","2,030",260,High school diploma or equivalent,Moderate-term on-the-job training
+51-2093,Timing Device Assemblers and Adjusters,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+51-2099,"Assemblers and Fabricators, All Other",$9.23,187,376,61,High school diploma or equivalent,Moderate-term on-the-job training
+51-3011,Bakers,$9.13,20,51,15,No formal educational credential,Long-term on-the-job training
+51-3021,Butchers and Meat Cutters,$12.28,26,68,21,No formal educational credential,Long-term on-the-job training
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",$11.08,2,87,24,No formal educational credential,Short-term on-the-job training
+51-3023,Slaughterers and Meat Packers,$10.80, (20),51,13,No formal educational credential,Short-term on-the-job training
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",$11.42,1,<10,<10,No formal educational credential,Moderate-term on-the-job training
+51-3092,Food Batchmakers,$9.87, (25),121,24,High school diploma or equivalent,Moderate-term on-the-job training
+51-3093,Food Cooking Machine Operators and Tenders,$12.87, (3),60,19,High school diploma or equivalent,Moderate-term on-the-job training
+51-3099,"Food Processing Workers, All Other",$8.33,2,49,<10,No formal educational credential,Moderate-term on-the-job training
+51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic",$14.06,110,93,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",$15.16,10,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",$11.59, (19),61,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",$17.18, (13),23,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",$13.45, (40),117,12,High school diploma or equivalent,Moderate-term on-the-job training
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",$15.08, (397),542,83,High school diploma or equivalent,Moderate-term on-the-job training
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",$10.16, (7),26,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",$12.49, (34),56,11,High school diploma or equivalent,Moderate-term on-the-job training
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",$15.31, (14),32,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",$13.18, (6),10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4041,Machinists,$17.43,181,361,66,High school diploma or equivalent,Long-term on-the-job training
+51-4051,Metal-Refining Furnace Operators and Tenders,$14.25,6,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4052,"Pourers and Casters, Metal",$13.30,1,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4061,"Model Makers, Metal and Plastic",$14.82,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4062,"Patternmakers, Metal and Plastic",Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4071,Foundry Mold and Coremakers,$13.15,3,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",$11.42, (15),95,14,High school diploma or equivalent,Moderate-term on-the-job training
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",$12.71,64,189,22,High school diploma or equivalent,Moderate-term on-the-job training
+51-4111,Tool and Die Makers,$20.94, (34),224,33,High school diploma or equivalent,Long-term on-the-job training
+51-4121,"Welders, Cutters, Solderers, and Brazers",$15.28,121,390,48,High school diploma or equivalent,Moderate-term on-the-job training
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",$11.25, (47),58,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",$14.13,0,13,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4192,"Layout Workers, Metal and Plastic",$14.06, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",$11.79, (16),22,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4194,"Tool Grinders, Filers, and Sharpeners",$10.72, (12),36,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-4199,"Metal Workers and Plastic Workers, All Other",$11.87, (2),14,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-5111,Prepress Technicians and Workers,$13.66, (21),32,<10,Postsecondary nondegree award,None
+51-5112,Printing Press Operators,$14.57, (41),184,28,High school diploma or equivalent,Moderate-term on-the-job training
+51-5113,Print Binding and Finishing Workers,$12.64,5,51,11,High school diploma or equivalent,Short-term on-the-job training
+51-6011,Laundry and Dry-Cleaning Workers,$8.42, (40),106,41,No formal educational credential,Short-term on-the-job training
+51-6021,"Pressers, Textile, Garment, and Related Materials",$8.47, (67),59,17,No formal educational credential,Short-term on-the-job training
+51-6031,Sewing Machine Operators,$10.46, (91),129,44,No formal educational credential,Short-term on-the-job training
+51-6041,Shoe and Leather Workers and Repairers,$10.71, (2),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-6042,Shoe Machine Operators and Tenders,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Short-term on-the-job training
+51-6051,"Sewers, Hand",$9.95,0,<10,<10,No formal educational credential,Moderate-term on-the-job training
+51-6052,"Tailors, Dressmakers, and Custom Sewers",$10.97,1,23,11,No formal educational credential,Moderate-term on-the-job training
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Short-term on-the-job training
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",$10.00, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Short-term on-the-job training
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",$10.41, (2),<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",$14.90,15,19,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-6092,Fabric and Apparel Patternmakers,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-6093,Upholsterers,$11.64,0,17,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",$10.10, (3),11,<10,High school diploma or equivalent,Short-term on-the-job training
+51-7011,Cabinetmakers and Bench Carpenters,$12.31,52,112,21,High school diploma or equivalent,Moderate-term on-the-job training
+51-7021,Furniture Finishers,$11.05,1,18,<10,High school diploma or equivalent,Short-term on-the-job training
+51-7031,"Model Makers, Wood",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+51-7032,"Patternmakers, Wood",Insf. Data,Insf. Data,<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",$9.76,21,37,<10,High school diploma or equivalent,Short-term on-the-job training
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",$12.18,19,153,32,High school diploma or equivalent,Short-term on-the-job training
+51-7099,"Woodworkers, All Other",$12.22,6,12,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-8011,Nuclear Power Reactor Operators,$37.38,3,<10,0,High school diploma or equivalent,Long-term on-the-job training
+51-8012,Power Distributors and Dispatchers,$39.03,7,35,<10,High school diploma or equivalent,Long-term on-the-job training
+51-8013,Power Plant Operators,$23.63,18,42,<10,High school diploma or equivalent,Long-term on-the-job training
+51-8021,Stationary Engineers and Boiler Operators,$15.56,6,29,<10,High school diploma or equivalent,Long-term on-the-job training
+51-8031,Water and Wastewater Treatment Plant and System Operators,$15.37,6,57,12,High school diploma or equivalent,Long-term on-the-job training
+51-8091,Chemical Plant and System Operators,$26.53, (30),23,<10,High school diploma or equivalent,Long-term on-the-job training
+51-8092,Gas Plant Operators,$30.71, (4),<10,0,High school diploma or equivalent,Long-term on-the-job training
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",$33.33, (16),22,<10,High school diploma or equivalent,Long-term on-the-job training
+51-8099,"Plant and System Operators, All Other",$17.48, (5),17,<10,High school diploma or equivalent,Long-term on-the-job training
+51-9011,Chemical Equipment Operators and Tenders,$20.85, (80),49,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",$16.94, (5),45,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",$11.94, (5),29,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9022,"Grinding and Polishing Workers, Hand",$10.55,12,<10,<10,No formal educational credential,Moderate-term on-the-job training
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",$13.97, (53),98,13,High school diploma or equivalent,Moderate-term on-the-job training
+51-9031,"Cutters and Trimmers, Hand",$10.91,6,<10,<10,No formal educational credential,Short-term on-the-job training
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",$13.72, (21),95,16,High school diploma or equivalent,Short-term on-the-job training
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",$9.37, (39),100,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",$14.84, (4),15,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",$12.75,45,782,156,High school diploma or equivalent,Moderate-term on-the-job training
+51-9071,Jewelers and Precious Stone and Metal Workers,$12.95,0,12,<10,High school diploma or equivalent,Long-term on-the-job training
+51-9081,Dental Laboratory Technicians,$12.01, (8),46,14,High school diploma or equivalent,Moderate-term on-the-job training
+51-9082,Medical Appliance Technicians,$20.10,3,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+51-9083,Ophthalmic Laboratory Technicians,$11.46,18,35,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9111,Packaging and Filling Machine Operators and Tenders,$10.73, (20),509,90,High school diploma or equivalent,Moderate-term on-the-job training
+51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",$12.50, (18),71,11,High school diploma or equivalent,Moderate-term on-the-job training
+51-9122,"Painters, Transportation Equipment",$20.52,13,20,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9123,"Painting, Coating, and Decorating Workers",$10.75,1,21,<10,No formal educational credential,Moderate-term on-the-job training
+51-9141,Semiconductor Processors,$15.57,1,<10,<10,Associate's degree,Moderate-term on-the-job training
+51-9151,Photographic Process Workers and Processing Machine Operators,$11.42, (13),<10,<10,High school diploma or equivalent,Short-term on-the-job training
+51-9191,Adhesive Bonding Machine Operators and Tenders,$12.68, (1),20,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",$10.28,1,11,<10,No formal educational credential,Moderate-term on-the-job training
+51-9193,Cooling and Freezing Equipment Operators and Tenders,$11.82,2,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9194,Etchers and Engravers,$11.28,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",$8.61,4,22,<10,High school diploma or equivalent,Long-term on-the-job training
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",$12.74, (79),112,16,High school diploma or equivalent,Moderate-term on-the-job training
+51-9197,Tire Builders,$14.78, (4),<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+51-9198,Helpers--Production Workers,$10.29,3,288,75,No formal educational credential,Short-term on-the-job training
+51-9199,"Production Workers, All Other",$8.97,120,451,63,High school diploma or equivalent,Moderate-term on-the-job training
+53-1011,Aircraft Cargo Handling Supervisors,$20.48,21,13,<10,High school diploma or equivalent,None
+53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",$17.61,97,183,26,High school diploma or equivalent,None
+53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,$20.95,82,264,40,High school diploma or equivalent,None
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",$49.20, (65),78,<10,Bachelor's degree,Moderate-term on-the-job training
+53-2012,Commercial Pilots,$28.42,4,26,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-2021,Air Traffic Controllers,$45.85, (5),16,<10,Associate's degree,Long-term on-the-job training
+53-2022,Airfield Operations Specialists,$24.24,1,<10,<10,High school diploma or equivalent,Long-term on-the-job training
+53-2031,Flight Attendants,$19.21, (65),17,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",$10.85,6,19,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-3021,"Bus Drivers, Transit and Intercity",$13.33,23,195,168,High school diploma or equivalent,Moderate-term on-the-job training
+53-3022,"Bus Drivers, School or Special Client",$15.00,84,614,469,High school diploma or equivalent,Short-term on-the-job training
+53-3031,Driver/Sales Workers,$8.99,34,475,203,High school diploma or equivalent,Short-term on-the-job training
+53-3032,Heavy and Tractor-Trailer Truck Drivers,$16.90,781,"1,905",501,Postsecondary nondegree award,Short-term on-the-job training
+53-3033,Light Truck or Delivery Services Drivers,$12.18,744,723,198,High school diploma or equivalent,Short-term on-the-job training
+53-3041,Taxi Drivers and Chauffeurs,$9.19,0,94,143,No formal educational credential,Short-term on-the-job training
+53-3099,"Motor Vehicle Operators, All Other",$10.01,25,33,77,No formal educational credential,Short-term on-the-job training
+53-4011,Locomotive Engineers,$26.38, (2),<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+53-4012,Locomotive Firers,$0.00,0,0,0,High school diploma or equivalent,Moderate-term on-the-job training
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",$19.64, (5),<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+53-4021,"Railroad Brake, Signal, and Switch Operators",$22.78, (2),<10,0,High school diploma or equivalent,Moderate-term on-the-job training
+53-4031,Railroad Conductors and Yardmasters,$23.78,1,11,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-4041,Subway and Streetcar Operators,$26.40,1,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-4099,"Rail Transportation Workers, All Other",$22.61,0,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-5011,Sailors and Marine Oilers,$11.46, (25),49,<10,No formal educational credential,Moderate-term on-the-job training
+53-5021,"Captains, Mates, and Pilots of Water Vessels",$31.96, (21),78,14,Postsecondary nondegree award,None
+53-5022,Motorboat Operators,$12.76, (11),<10,<10,Postsecondary nondegree award,None
+53-5031,Ship Engineers,$24.52, (4),14,<10,Postsecondary nondegree award,None
+53-6011,Bridge and Lock Tenders,$23.03,0,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+53-6021,Parking Lot Attendants,$8.33,1,47,47,No formal educational credential,Short-term on-the-job training
+53-6031,Automotive and Watercraft Service Attendants,$9.92,26,62,39,No formal educational credential,Short-term on-the-job training
+53-6041,Traffic Technicians,$19.30,3,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-6051,Transportation Inspectors,$31.76,2,32,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-6061,"Transportation Attendants, Except Flight Attendants",$10.38,4,<10,<10,High school diploma or equivalent,Short-term on-the-job training
+53-6099,"Transportation Workers, All Other",$10.95,15,48,20,High school diploma or equivalent,Short-term on-the-job training
+53-7011,Conveyor Operators and Tenders,$15.97,49,59,<10,No formal educational credential,Short-term on-the-job training
+53-7021,Crane and Tower Operators,$18.12,18,29,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-7031,Dredge Operators,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-7032,Excavating and Loading Machine and Dragline Operators,$13.41,2,43,12,High school diploma or equivalent,Moderate-term on-the-job training
+53-7033,"Loading Machine Operators, Underground Mining",Insf. Data,Insf. Data,<10,<10,No formal educational credential,Short-term on-the-job training
+53-7041,Hoist and Winch Operators,$14.11,0,<10,<10,No formal educational credential,Short-term on-the-job training
+53-7051,Industrial Truck and Tractor Operators,$12.88,334,846,93,No formal educational credential,Short-term on-the-job training
+53-7061,Cleaners of Vehicles and Equipment,$9.18,81,170,66,No formal educational credential,Short-term on-the-job training
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",$10.69,"1,902","2,144",401,No formal educational credential,Short-term on-the-job training
+53-7063,Machine Feeders and Offbearers,$12.28,60,187,47,No formal educational credential,Short-term on-the-job training
+53-7064,"Packers and Packagers, Hand",$9.21,278,682,184,No formal educational credential,Short-term on-the-job training
+53-7071,Gas Compressor and Gas Pumping Station Operators,$21.77, (9),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-7072,"Pump Operators, Except Wellhead Pumpers",$14.85, (1),<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-7073,Wellhead Pumpers,Insf. Data,Insf. Data,<10,<10,High school diploma or equivalent,Moderate-term on-the-job training
+53-7081,Refuse and Recyclable Material Collectors,$11.89,52,60,14,No formal educational credential,Short-term on-the-job training
+53-7111,Mine Shuttle Car Operators,Insf. Data,Insf. Data,0,0,No formal educational credential,Short-term on-the-job training
+53-7121,"Tank Car, Truck, and Ship Loaders",$12.57, (4),25,<10,No formal educational credential,Short-term on-the-job training
+53-7199,"Material Moving Workers, All Other",$10.89,8,<10,<10,No formal educational credential,Short-term on-the-job training
+55-9999,Military occupations,$0.00,0,0,0,N/A,N/A
+99-9999,Unclassified Occupation,$0.00,0,0,0,N/A,N/A
+,,$15.15,"46,821","95,691","28,042",,

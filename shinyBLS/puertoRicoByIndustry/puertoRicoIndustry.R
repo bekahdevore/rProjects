@@ -1,5 +1,4 @@
-
-nola <- subset(series, area_code == 31140)
+nola <- subset(series, area_code >= 0)
 
 nola <- merge(industry, nola, by="industry_code", all.y = TRUE)
 nola <- merge(data_type, nola, by="data_type_code", all.y = TRUE)
@@ -15,8 +14,8 @@ series.nums <- unique(nola$series_id)
 
 # Select the series id numbers for the New Orleans area
 # Remove month 13 ("M13") observations, as these contain annual averages
-data <- subset(data.18.Kentucky, series_id %in% series.nums & period != "M13")
-remove(series.nums, series, data.18.Kentucky)
+data <- subset(data.40.PuertoRico, series_id %in% series.nums & period != "M13")
+remove(series.nums, series, data.40.PuertoRico)
 
 # Create a date variable that R recognizes as a date
 data$month <- as.numeric(gsub("M" , "", data$period))

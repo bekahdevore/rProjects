@@ -6,7 +6,7 @@ industries <- as.list(unique(nola$industry_name))
 
 ui <- fluidPage(
   
-  tags$h2("Louisville Historic and Forecasted Employment Numbers, by Industry"),
+  tags$h2("Puerto Rico Historic and Forecasted Employment Numbers, by Industry"),
   tags$br(),
   wellPanel(
     fluidRow(
@@ -58,7 +58,7 @@ server <- function(input, output) {
     library(scales) # formatting numbers
     
     title <- paste(input$industry, "Employees", sep = " ")
-    title <- paste(title, "\nLouisville, Louisville Metropolitan Area", sep = "")
+    title <- paste(title, "\nPuerto Rico", sep = "")
     
     graph <- ggplot(temp.data, aes(x=temp.data$date, y=temp.data$employees))
     graph <- graph + geom_line()# add a line connecting the dots
@@ -70,7 +70,6 @@ server <- function(input, output) {
     graph <- graph + ggtitle(title)
     graph
   })
-  
 }
 
 shinyApp(ui = ui, server = server)
